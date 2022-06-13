@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 //Para importar clases
-import 'home_trips.dart';
-import 'search_trips.dart';
-import 'profile_trips.dart';
+import 'Place/ui/screens/home_trips.dart';
+import 'Place/ui/screens/search_trips.dart';
+import 'Place/ui/screens/profile_trips.dart';
 
 class PlatziTrips extends StatefulWidget {
   @override

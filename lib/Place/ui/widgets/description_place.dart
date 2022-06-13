@@ -1,7 +1,7 @@
 //Importamos el paquete de material
 import 'package:flutter/material.dart';
 
-import 'button_purple.dart';
+import '../../../widgets/button_purple.dart';
 
 class DescriptionPlace extends StatelessWidget {
   // Creamos variables para que sea más manejable al momento de conectarse con api

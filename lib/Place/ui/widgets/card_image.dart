@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 //Importamos la clase del archivo floating_action_button_green
-import 'floating_action_button_green.dart';
+import '../../../widgets/floating_action_button_green.dart';
 
 class CardImage extends StatelessWidget {
   //variable con datos por defecto
