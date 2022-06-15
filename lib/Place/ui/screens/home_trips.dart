@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 //Importamos los archivos
 import '../widgets/description_place.dart';
-import '../../../widgets/header_appbar.dart';
+import 'header_appbar.dart';
 import '../widgets/review_list.dart';
 
 class HomeTrips extends StatelessWidget {

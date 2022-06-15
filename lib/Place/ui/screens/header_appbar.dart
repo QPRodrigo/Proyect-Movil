@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 //Importamos el gradiente
-import 'gradient_back.dart';
+import '../../../widgets/gradient_back.dart';
 //Importamos la carrilla de imagenes
-import '../Place/ui/widgets/card_image_list.dart';
+import '../widgets/card_image_list.dart';
 
 class HeaderAppBar extends StatelessWidget {
   @override
