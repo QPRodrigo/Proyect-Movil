@@ -17,3 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Images
 <img height="700" src="https://raw.githubusercontent.com/QPRodrigo/Proyect-Movil/main/readme_images/Capture-home.PNG"> 
+
+## Images
+<img height="700" src="https://raw.githubusercontent.com/QPRodrigo/Proyect-Movil/main/readme_images/Capture-Profile.PNG"> 
+
